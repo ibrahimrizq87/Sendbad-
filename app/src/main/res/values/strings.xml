@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sendbad</string>
+    <string-array name="index">
+        <item>item 1111111</item>
+        <item>item 2222222</item>
+        <item>item 3333333</item>
+        <item>item 4444444</item>
+        <item>item 5555555</item>
+        <item>item 6666666</item>
+        <item>item 7777777</item>
+        <item>item 8888888</item>
+    </string-array>
+</resources>
